@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello 👋
+
+I’m Elysia — a creative technologist.
+
+By day, I’m a senior product designer and the front-end lead for an internal product on IBM’s intranet.<br/>
+By night, I’m an intensely casual gamer, enjoying island life as I slowly pay back my debts to Tom Nook. #ACNH
+
+Working closely with both designers and developers, I’ve have a growing interest in design ops and front-end dev ops.
+
+---
 
 <!--
 **elycheea/elycheea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
