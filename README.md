@@ -15,8 +15,9 @@ Working closely with both designers and developers, I have a growing interest in
 
 ### Currently ...
 
-🔭 Working on [@spraydown-climbing](https://github.com/spraydown-climbing) with [@kwak123](https://github.com/kwak123)<br/>
-🌱 Learning GitHub Actions<br/>
+🔭 Working on design systems `@carbon/ibm-products`<br/>
+🌱 Learning GitHub Projects 👀
+❄️ Someday ... [@spraydown-climbing](https://github.com/spraydown-climbing) with [@kwak123](https://github.com/kwak123)<br/>
 ⚡️ Most used emojis 😹 😅 🤷🏻‍♀️ 🙈 🙃 <br/>
 
 <!--
