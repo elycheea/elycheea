@@ -1,8 +1,6 @@
 ### Hello 👋
 
-I’m Elysia — a UX engineer.
-
-Working closely with both designers and developers, I have a growing interest in design and front-end dev ops.
+I’m Elysia — a UX engineer and dev/people manager.
 
 ---
 
@@ -16,7 +14,7 @@ Working closely with both designers and developers, I have a growing interest in
 ### Currently ...
 
 🔭 Working on design systems `@carbon/ibm-products`<br/>
-🌱 Learning GitHub Projects 👀<br/>
+🌱 Learning Web Components 👀<br/>
 ❄️ Someday ... [@spraydown-climbing](https://github.com/spraydown-climbing) with [@kwak123](https://github.com/kwak123)<br/>
 ⚡️ Most used emojis 😹 😅 🤷🏻‍♀️ 🙈 🙃 <br/>
 
